@@ -1,0 +1,64 @@
+{
+	"response": {
+		
+		"body": {
+			"list": [{
+				"channelId": "10240011",
+				"channelName": "东方卫视",
+				"programName": "延禧攻略",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20140828/10240011/146x146/20140828145246540_0105.png"
+			}, {
+				"channelId": "10240259",
+				"channelName": "CCTV-3",
+				"programName": "综艺盛典",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20151210/10240259/146x146/20151210143034592_0082.png"
+			}, {
+				"channelId": "10240261",
+				"channelName": "CCTV-6",
+				"programName": "巴黎假期",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20151210/10240261/146x146/20151210150748559_0084.png"
+			}, {
+				"channelId": "10240262",
+				"channelName": "CCTV-8",
+				"programName": "大话红娘(14)",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20151210/10240262/146x146/20151210154523904_0085.png"
+			}, {
+				"channelId": "10240001",
+				"channelName": "CCTV-1",
+				"programName": "今日说法",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20140827/10240001/146x146/20140827160923832_0038.png"
+			}, {
+				"channelId": "10240026",
+				"channelName": "北京卫视",
+				"programName": "特别关注",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20141010/10240026/146x146/20141010141157944_0063.png"
+			}, {
+				"channelId": "10240002",
+				"channelName": "CCTV-2",
+				"programName": "舌尖上的中国Ⅱ(5)",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20140828/10240002/146x146/20140828144700465_0097.png"
+			}, {
+				"channelId": "10240005",
+				"channelName": "CCTV-4",
+				"programName": "中国新闻",
+				"timeshift": "1",
+				"backSee": "1",
+				"picUrl": "/20140828/10240005/146x146/20140828144745734_0099.png"
+			}]
+		}
+	}
+}
